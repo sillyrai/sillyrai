@@ -6,4 +6,4 @@ I'm Rai! I code stuff sometimes, though a lot of my projects usually arent on Gi
 ⭐ My TimeZone is UTC+3 (Europe/Riga)
 
 ![Rais's GitHub stats](https://github-readme-stats.vercel.app/api?username=sillyrai&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sillyrai)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sillyrai&theme=transparent)]
